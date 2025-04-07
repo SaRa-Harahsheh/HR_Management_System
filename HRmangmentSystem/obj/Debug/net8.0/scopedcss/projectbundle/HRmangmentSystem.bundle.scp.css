@@ -1,0 +1,196 @@
+/* _content/HRmangmentSystem/Views/Shared/EmployeeDashbord.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-79qyjj036x] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-79qyjj036x] {
+  color: #0077cc;
+}
+
+.btn-primary[b-79qyjj036x] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-79qyjj036x], .nav-pills .show > .nav-link[b-79qyjj036x] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-79qyjj036x] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-79qyjj036x] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-79qyjj036x] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-79qyjj036x] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-79qyjj036x] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/HRmangmentSystem/Views/Shared/Hr_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-hoyownsrzz] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-hoyownsrzz] {
+  color: #0077cc;
+}
+
+.btn-primary[b-hoyownsrzz] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-hoyownsrzz], .nav-pills .show > .nav-link[b-hoyownsrzz] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-hoyownsrzz] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-hoyownsrzz] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-hoyownsrzz] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-hoyownsrzz] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-hoyownsrzz] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/HRmangmentSystem/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-wba0lvliho] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-wba0lvliho] {
+  color: #0077cc;
+}
+
+.btn-primary[b-wba0lvliho] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-wba0lvliho], .nav-pills .show > .nav-link[b-wba0lvliho] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-wba0lvliho] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-wba0lvliho] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-wba0lvliho] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-wba0lvliho] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-wba0lvliho] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/HRmangmentSystem/Views/Shared/_ManagerLayout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-55zesytfv6] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-55zesytfv6] {
+  color: #0077cc;
+}
+
+.btn-primary[b-55zesytfv6] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-55zesytfv6], .nav-pills .show > .nav-link[b-55zesytfv6] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-55zesytfv6] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-55zesytfv6] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-55zesytfv6] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-55zesytfv6] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-55zesytfv6] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

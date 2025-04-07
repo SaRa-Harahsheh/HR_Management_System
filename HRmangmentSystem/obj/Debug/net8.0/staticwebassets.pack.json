@@ -1,0 +1,3213 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRmangmentSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HRmangmentSystem.tewcs2vbxc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\css\\landing.css",
+      "PackagePath": "staticwebassets\\assets\\css\\landing.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\css\\layout-advance.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout-advance.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\css\\layout-creative.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout-creative.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\css\\layout-horizontal.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout-horizontal.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\css\\layout-modern.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout-modern.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\css\\layout-nested.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout-nested.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\css\\layout-tab.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout-tab.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\css\\style-preset.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style-preset.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\css\\uikit.css",
+      "PackagePath": "staticwebassets\\assets\\css\\uikit.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\feather.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\feather\\feather.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\feather\\feather.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\feather\\feather.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\feather\\feather.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feather\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\material.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\material\\material.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\material\\material.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\phosphor\\duotone\\selection.json",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\phosphor\\duotone\\style.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\phosphor\\duotone\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\tabler-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\fonts\\tabler\\tabler-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\tabler\\tabler-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-add-user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-add-user.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-bootstrap.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-bulb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-c.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-c.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-course-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-course-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-course-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-course-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-course-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-course-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-course-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-course-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-course-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-domain.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-domain.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-payment-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-payment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-payment-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-payment-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-php.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-php.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-star.png",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-star.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-ux.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-ux.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\img-web.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\img-web.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\p1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\p2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\p3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\p4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\admin\\p5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\card.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\card.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-accout-alert.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-accout-alert.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-accout-password-alert.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-accout-password-alert.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-brand-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-brand-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-brand-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-brand-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-brand-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-brand-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-brand-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-community-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-community-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-coupon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-coupon.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-empty-mail.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-empty-mail.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-mastercard.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-mastercard.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-pay-card-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-pay-card-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-post-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-post-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-post-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-post-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-brand-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-brand-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-brand-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-brand-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-brand-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-brand-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-brand-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-brand-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-prod-brand-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-prod-brand-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-profile-cover.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-profile-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-soc-gal-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-soc-gal-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-soc-gal-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-soc-gal-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-soc-gal-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-soc-gal-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-soc-gal-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-soc-gal-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-soc-gal-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-soc-gal-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-story-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-story-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-story-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-story-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-story-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-story-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-story-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-user-cover-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-user-cover-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-user-cover-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-user-cover-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-user-cover-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-user-cover-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-user-cover-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-user-cover-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\img-user-cover-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\img-user-cover-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\application\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\application\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\authentication\\auth-side.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\auth-side.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\authentication\\facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\authentication\\google.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\authentication\\img-auth-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\img-auth-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\authentication\\twitter.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\component\\img-card.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\component\\img-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\component\\img-slide-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\component\\img-slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\component\\img-slide-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\component\\img-slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\component\\img-slide-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\component\\img-slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\customizer\\img-caption-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-caption-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\customizer\\img-caption-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-caption-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\customizer\\img-container-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-container-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\customizer\\img-container-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-container-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\customizer\\img-layout-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-layout-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\customizer\\img-layout-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\customizer\\img-layout-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\gallery-grid\\img-grd-gal-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-grid\\img-grd-gal-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\01.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\01.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\02.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\02.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\03.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\03.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\04.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\04.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\05.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\05.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\06.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\06.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\about-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\about-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\about-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\about-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\about-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\about-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\call2action.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\call2action.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\dashboardkit-bootstrap-admin-template.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\dashboardkit-bootstrap-admin-template.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\dk-bootstrap-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\dk-bootstrap-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\dk-react.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\dk-react.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\free-dashboardkit.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\free-dashboardkit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\helpdesk.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\helpdesk.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\img-lay-advance.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-lay-advance.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\img-lay-compact.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-lay-compact.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\img-lay-horizontal-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-lay-horizontal-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\img-lay-horizontal-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-lay-horizontal-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\img-lay-layout-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-lay-layout-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\img-lay-modern.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-lay-modern.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\img-lay-tab.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-lay-tab.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\img-lay-vartical.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\img-lay-vartical.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\invoice.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\invoice.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\membership.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\membership.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\online-courses.png",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\online-courses.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\tech-bootstrap.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\landing\\tech-react.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\landing\\tech-react.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\layout\\img-profile-card.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layout\\img-profile-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\layout\\nav-card-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\layout\\nav-card-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\l1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\l2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\l3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\l4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\l5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\l6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\l6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\sl1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\sl2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\sl3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\sl4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\sl5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\light-box\\sl6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\light-box\\sl6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\loder.png",
+      "PackagePath": "staticwebassets\\assets\\images\\loder.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\logo-white-sm.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white-sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo2_footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\notification\\clock-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\clock-48.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\notification\\high_priority-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\high_priority-48.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\notification\\medium_priority-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\medium_priority-48.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\notification\\ok-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\ok-48.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\notification\\survey-48.png",
+      "PackagePath": "staticwebassets\\assets\\images\\notification\\survey-48.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-connection-lost.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-connection-lost.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-error-404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-error-404.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-gallery-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-gallery-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-soon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-soon.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\img-under-maintenance.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\img-under-maintenance.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\sark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\sark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\ship.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\ship.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\sparcle-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\sparcle-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\pages\\sparcle-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pages\\sparcle-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\rating\\star-empty.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\star-empty.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\rating\\star-full.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\rating\\star-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\slider\\img-slide-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\slider\\img-slide-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\slider\\img-slide-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\slider\\img-slide-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\slider\\img-slide-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\slider\\img-slide-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\slider\\img-slide-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\img-slide-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\user\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\user\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\user\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\user\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\user\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\user\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\user\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\user\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\user\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\user\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\AUSTRALIA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\BRAZIL.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\BRAZIL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\GERMANY.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\GERMANY.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\PHONE1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\PHONE1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\PHONE2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\PHONE2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\PHONE3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\PHONE3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\PHONE4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\PHONE4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\UK.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\UK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\USA.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\USA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\dashborad-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\dashborad-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\dashborad-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\dashborad-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\dashborad-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\dashborad-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-acitivity-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-acitivity-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-card-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-card-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-card-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-card-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-card-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-card-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-card-master.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-card-master.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-earning-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-earning-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-food.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-food.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-google.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-google.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-helth.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-helth.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-shoping.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-shoping.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-status-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-status-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-status-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-status-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-status-5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-status-6.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-status-7.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-7.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-status-8.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-8.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-status-9.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-status-9.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-travel.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-travel.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-twitter.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\img-visitor.png",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\img-visitor.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\p1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\p2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\p3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\p4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\prod1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\prod1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\prod2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\prod2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\prod3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\prod3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\prod4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\prod4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\images\\widget\\slider5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\widget\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\component.js",
+      "PackagePath": "staticwebassets\\assets\\js\\component.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\fonts\\custom-font.js",
+      "PackagePath": "staticwebassets\\assets\\js\\fonts\\custom-font.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\layout-compact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\layout-compact.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\layout-horizontal.js",
+      "PackagePath": "staticwebassets\\assets\\js\\layout-horizontal.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\layout-tab.js",
+      "PackagePath": "staticwebassets\\assets\\js\\layout-tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\ac-alert.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\ac-datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\ac-notification.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-notification.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\ac-rangeslider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-rangeslider.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\ac-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\ac-tour.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-tour.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\ac-treeview.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ac-treeview.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\calendar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\canada.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\canada.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\chart-apex.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\chart-apex.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\course-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\course-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\dashboard-analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\dashboard-default.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-default.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\dashboard-ecommerce.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-ecommerce.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\dashboard-finance.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-finance.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\dashboard-help.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-help.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\dashboard-main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-main.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\dashboard-project.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-project.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\dashboard-sale.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-sale.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\form-masking-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-masking-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\form-validation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\invoice-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\invoice-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\invoice-list.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\invoice-list.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\iraq.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\iraq.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\italy.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\italy.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\map-vector.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\map-vector.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\membership-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\membership-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\page-croper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\page-croper.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\russia.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\russia.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\spain.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\spain.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\todo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\us-aea-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\us-aea-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\us-lcc-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\us-lcc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\us-merc-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\us-merc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\us-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\us-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\w-chart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\w-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\w-data.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\w-data.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pages\\widget-data.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\widget-data.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\pcoded.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pcoded.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\plugins\\Jarallax.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Jarallax.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\plugins\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\plugins\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\plugins\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\clipboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\plugins\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\plugins\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\plugins\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\plugins\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\js\\plugins\\tinymce\\plugins\\print\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\tinymce\\plugins\\print\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\json\\2500.txt",
+      "PackagePath": "staticwebassets\\assets\\json\\2500.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\json\\datatable.column.json",
+      "PackagePath": "staticwebassets\\assets\\json\\datatable.column.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\json\\datatable.json",
+      "PackagePath": "staticwebassets\\assets\\json\\datatable.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\json\\file-upload.php",
+      "PackagePath": "staticwebassets\\assets\\json\\file-upload.php"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\json\\lazy.json",
+      "PackagePath": "staticwebassets\\assets\\json\\lazy.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\json\\root.json",
+      "PackagePath": "staticwebassets\\assets\\json\\root.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\json\\typehead\\countries.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\countries.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\json\\typehead\\movies.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\movies.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\json\\typehead\\nba.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\nba.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\assets\\json\\typehead\\nhl.json",
+      "PackagePath": "staticwebassets\\assets\\json\\typehead\\nhl.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\Dashbord.css",
+      "PackagePath": "staticwebassets\\css\\Dashbord.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\animated-headline.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\animated-headline.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\gijgo.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\price_rangs.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\price_rangs.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\progressbar_barfiller.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\progressbar_barfiller.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\slick.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\style.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\style.map",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\HomeCss\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\HomeCss\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\base.css",
+      "PackagePath": "staticwebassets\\css\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\depCard.css",
+      "PackagePath": "staticwebassets\\css\\depCard.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\landing.css",
+      "PackagePath": "staticwebassets\\css\\landing.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\layout-advance.css",
+      "PackagePath": "staticwebassets\\css\\layout-advance.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\layout-creative.css",
+      "PackagePath": "staticwebassets\\css\\layout-creative.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\layout-horizontal.css",
+      "PackagePath": "staticwebassets\\css\\layout-horizontal.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\layout-modern.css",
+      "PackagePath": "staticwebassets\\css\\layout-modern.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\layout-nested.css",
+      "PackagePath": "staticwebassets\\css\\layout-nested.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\layout-tab.css",
+      "PackagePath": "staticwebassets\\css\\layout-tab.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\search.css",
+      "PackagePath": "staticwebassets\\css\\search.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\site1.css",
+      "PackagePath": "staticwebassets\\css\\site1.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\style-preset.css",
+      "PackagePath": "staticwebassets\\css\\style-preset.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\css\\uikit.css",
+      "PackagePath": "staticwebassets\\css\\uikit.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\feather.css",
+      "PackagePath": "staticwebassets\\fonts\\feather.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\feather\\feather.eot",
+      "PackagePath": "staticwebassets\\fonts\\feather\\feather.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\feather\\feather.svg",
+      "PackagePath": "staticwebassets\\fonts\\feather\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\feather\\feather.ttf",
+      "PackagePath": "staticwebassets\\fonts\\feather\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\feather\\feather.woff",
+      "PackagePath": "staticwebassets\\fonts\\feather\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome.css",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\gijgo-material.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\gijgo-material.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\gijgo-material.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\gijgo-material.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\gijgo-material.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\gijgo-material.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\gijgo-material.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\gijgo-material.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\fontsHome\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontsHome\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\material.css",
+      "PackagePath": "staticwebassets\\fonts\\material.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\material\\material.woff2",
+      "PackagePath": "staticwebassets\\fonts\\material\\material.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\phosphor\\duotone\\Phosphor-Duotone.svg",
+      "PackagePath": "staticwebassets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\phosphor\\duotone\\Phosphor-Duotone.ttf",
+      "PackagePath": "staticwebassets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\phosphor\\duotone\\Phosphor-Duotone.woff",
+      "PackagePath": "staticwebassets\\fonts\\phosphor\\duotone\\Phosphor-Duotone.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\phosphor\\duotone\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\phosphor\\duotone\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\phosphor\\duotone\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\phosphor\\duotone\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\tabler-icons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\tabler-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\tabler\\tabler-icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\tabler\\tabler-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\tabler\\tabler-icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\tabler\\tabler-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\tabler\\tabler-icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\tabler\\tabler-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\tabler\\tabler-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\tabler\\tabler-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\fonts\\tabler\\tabler-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\tabler\\tabler-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Employee\\.jpg",
+      "PackagePath": "staticwebassets\\image\\Employee\\.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Employee\\.png",
+      "PackagePath": "staticwebassets\\image\\Employee\\.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Employee\\00837d7b-0f76-46e6-a303-ee1958379b1e.jpg",
+      "PackagePath": "staticwebassets\\image\\Employee\\00837d7b-0f76-46e6-a303-ee1958379b1e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Employee\\188600ac-4bf9-42d5-bfd5-1444c28ae5b8.png",
+      "PackagePath": "staticwebassets\\image\\Employee\\188600ac-4bf9-42d5-bfd5-1444c28ae5b8.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Employee\\3ecd21f9-145d-4b0b-bc02-963b14126984.jpg",
+      "PackagePath": "staticwebassets\\image\\Employee\\3ecd21f9-145d-4b0b-bc02-963b14126984.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Employee\\8697ab6f-a3be-47e3-90b0-c2f836c72ab6.jpg",
+      "PackagePath": "staticwebassets\\image\\Employee\\8697ab6f-a3be-47e3-90b0-c2f836c72ab6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Employee\\87ee7ee6-490c-4461-9e06-77b1ab0bd7d4.jpg",
+      "PackagePath": "staticwebassets\\image\\Employee\\87ee7ee6-490c-4461-9e06-77b1ab0bd7d4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Employee\\8fbe6f7b-c2ba-4d69-9c87-bb6eb8263a28.jpg",
+      "PackagePath": "staticwebassets\\image\\Employee\\8fbe6f7b-c2ba-4d69-9c87-bb6eb8263a28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Employee\\9a02f51c-c253-4378-ab6b-a0ce94e4eac7.png",
+      "PackagePath": "staticwebassets\\image\\Employee\\9a02f51c-c253-4378-ab6b-a0ce94e4eac7.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Employee\\f6673265-fd2a-4592-8fac-64300e175495.jpg",
+      "PackagePath": "staticwebassets\\image\\Employee\\f6673265-fd2a-4592-8fac-64300e175495.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\HR\\b8ba3edd-65bc-47fb-83c5-b067a5165789.jpg",
+      "PackagePath": "staticwebassets\\image\\HR\\b8ba3edd-65bc-47fb-83c5-b067a5165789.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Manger\\5f4c9775-435f-4f5e-9614-8540057d9d5f.jpg",
+      "PackagePath": "staticwebassets\\image\\Manger\\5f4c9775-435f-4f5e-9614-8540057d9d5f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Manger\\e0fc63e8-5bbb-4871-bb4b-15db4608ad68.jpg",
+      "PackagePath": "staticwebassets\\image\\Manger\\e0fc63e8-5bbb-4871-bb4b-15db4608ad68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\Manger\\f0f7cca9-0b92-4708-a471-7d41eab2fdec.jpg",
+      "PackagePath": "staticwebassets\\image\\Manger\\f0f7cca9-0b92-4708-a471-7d41eab2fdec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\blog\\author.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\blog\\comment_1.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\blog\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\blog\\comment_2.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\blog\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\blog\\comment_3.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\blog\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\favicon.ico",
+      "PackagePath": "staticwebassets\\image\\imgHome\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\gallery\\about1.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\gallery\\about1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\gallery\\about2.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\gallery\\about2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\gallery\\footer-bg.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\gallery\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\gallery\\section_bg02.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\gallery\\section_bg02.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\gallery\\section_bg03.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\gallery\\section_bg03.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\gallery\\testi-logo.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\gallery\\testi-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\hero\\hero2.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\hero\\hero2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\hero\\hero_right.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\hero\\hero_right.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\hero\\top-left-shape.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\hero\\top-left-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\data-server.svg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\data-server.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\price1.svg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\price1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\price2.svg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\price2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\price3.svg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\price3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\quotes-sign.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\quotes-sign.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\right.svg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\services1.svg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\services1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\services2.svg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\services2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\services3.svg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\services3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\services4.svg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\services4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\services5.svg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\services5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\services6.svg",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\services6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\icon\\testimonial.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\icon\\testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\login-bg.mp4",
+      "PackagePath": "staticwebassets\\image\\imgHome\\login-bg.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\logo\\loder.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\logo\\loder.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\logo\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\logo\\logo2_footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\next.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\imgHome\\post\\preview.png",
+      "PackagePath": "staticwebassets\\image\\imgHome\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\avatar\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\avatar\\avatar-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\avatar\\avatar-02.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\avatar\\avatar-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\avatar\\avatar-03.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\avatar\\avatar-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\avatar\\avatar-04.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\avatar\\avatar-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\avatar\\avatar-05.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\avatar\\avatar-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\avatar\\avatar-06.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\avatar\\avatar-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\banner\\bg-01.png",
+      "PackagePath": "staticwebassets\\image\\img\\banner\\bg-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\banner\\bg-02.png",
+      "PackagePath": "staticwebassets\\image\\img\\banner\\bg-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\banner\\slide-01.svg",
+      "PackagePath": "staticwebassets\\image\\img\\banner\\slide-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\banner\\slide-02.svg",
+      "PackagePath": "staticwebassets\\image\\img\\banner\\slide-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\banner\\slide-03.svg",
+      "PackagePath": "staticwebassets\\image\\img\\banner\\slide-03.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\bg\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\bg\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\bg\\bg-02.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\bg\\bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\bg\\bg-03.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\bg\\bg-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\bg\\bg-04.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\bg\\bg-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\bg\\bg-05.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\bg\\bg-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\bg\\bg-06.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\bg\\bg-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\bg\\footer-bg.png",
+      "PackagePath": "staticwebassets\\image\\img\\bg\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\bg\\shape-01.png",
+      "PackagePath": "staticwebassets\\image\\img\\bg\\shape-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\bg\\shape-02.png",
+      "PackagePath": "staticwebassets\\image\\img\\bg\\shape-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\blog\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\blog\\blog-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\blog\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\blog\\blog-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\blog\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\blog\\blog-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\blog\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\blog\\blog-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\blog\\blog-05.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\blog\\blog-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\blog\\blog-06.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\blog\\blog-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\blog\\blog-detail-01.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\blog\\blog-detail-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\blog\\blog-detail-02.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\blog\\blog-detail-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\blog\\blog-detail-03.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\blog\\blog-detail-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\about-03.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\content\\about-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\about1.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\about1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\about2.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\about2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\affliate-01.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\affliate-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\affliate-02.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\affliate-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\affliate-03.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\content\\affliate-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\amex.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\amex.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\author-sign.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\author-sign.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\cloud-hosting-01.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\cloud-hosting-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\cloud-hosting-02.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\cloud-hosting-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\domain-registration.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\domain-registration.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\domain-transfer-01.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\domain-transfer-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\domain-transfer-02.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\domain-transfer-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\email-hosting-01.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\email-hosting-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\email-hosting-02.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\email-hosting-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\faq-01.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\faq-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\insta-01.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\content\\insta-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\insta-02.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\content\\insta-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\insta-03.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\content\\insta-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\mastercard.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\paypal.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\process-line.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\content\\process-line.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\shared-hosting-01.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\shared-hosting-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\shared-hosting-02.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\shared-hosting-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\visa.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\vps-hosting-01.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\vps-hosting-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\content\\vps-hosting-02.png",
+      "PackagePath": "staticwebassets\\image\\img\\content\\vps-hosting-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\logos\\apple-touch-icon-114x114.png",
+      "PackagePath": "staticwebassets\\image\\img\\logos\\apple-touch-icon-114x114.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\logos\\apple-touch-icon-57x57.png",
+      "PackagePath": "staticwebassets\\image\\img\\logos\\apple-touch-icon-57x57.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\logos\\apple-touch-icon-72x72.png",
+      "PackagePath": "staticwebassets\\image\\img\\logos\\apple-touch-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\logos\\favicon.png",
+      "PackagePath": "staticwebassets\\image\\img\\logos\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\logos\\footer-light-logo.png",
+      "PackagePath": "staticwebassets\\image\\img\\logos\\footer-light-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\logos\\logo-white.png",
+      "PackagePath": "staticwebassets\\image\\img\\logos\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\logos\\logo.png",
+      "PackagePath": "staticwebassets\\image\\img\\logos\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-01.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-02.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-02.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-03.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-03.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-04.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-04.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-05.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-05.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-06.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-06.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-07.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-07.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-08.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-08.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-09.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-09.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-10.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-10.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-11.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-11.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-12.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-12.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-13.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-13.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\partners\\partner-14.png",
+      "PackagePath": "staticwebassets\\image\\img\\partners\\partner-14.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\team\\team-01.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\team\\team-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\team\\team-02.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\team\\team-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\team\\team-03.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\team\\team-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\team\\team-04.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\team\\team-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\team\\team-05.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\team\\team-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\image\\img\\team\\team-06.jpg",
+      "PackagePath": "staticwebassets\\image\\img\\team\\team-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\component.js",
+      "PackagePath": "staticwebassets\\js\\component.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\config.js",
+      "PackagePath": "staticwebassets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\fonts\\custom-font.js",
+      "PackagePath": "staticwebassets\\js\\fonts\\custom-font.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\animated.headline.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\animated.headline.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\contact.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\hover-direction-snake.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\hover-direction-snake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.barfiller.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.barfiller.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\jquery.vide.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\jquery.vide.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\main.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\one-page-nav-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\price-range.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\jsHome\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\jsHome\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\layout-compact.js",
+      "PackagePath": "staticwebassets\\js\\layout-compact.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\layout-horizontal.js",
+      "PackagePath": "staticwebassets\\js\\layout-horizontal.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\layout-tab.js",
+      "PackagePath": "staticwebassets\\js\\layout-tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\ac-alert.js",
+      "PackagePath": "staticwebassets\\js\\pages\\ac-alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\ac-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\pages\\ac-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\ac-notification.js",
+      "PackagePath": "staticwebassets\\js\\pages\\ac-notification.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\ac-rangeslider.js",
+      "PackagePath": "staticwebassets\\js\\pages\\ac-rangeslider.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\ac-slider.js",
+      "PackagePath": "staticwebassets\\js\\pages\\ac-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\ac-tour.js",
+      "PackagePath": "staticwebassets\\js\\pages\\ac-tour.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\ac-treeview.js",
+      "PackagePath": "staticwebassets\\js\\pages\\ac-treeview.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\calendar.js",
+      "PackagePath": "staticwebassets\\js\\pages\\calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\canada.js",
+      "PackagePath": "staticwebassets\\js\\pages\\canada.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\chart-apex.js",
+      "PackagePath": "staticwebassets\\js\\pages\\chart-apex.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\course-dashboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\course-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\dashboard-analytics.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\dashboard-default.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard-default.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\dashboard-ecommerce.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard-ecommerce.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\dashboard-finance.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard-finance.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\dashboard-help.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard-help.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\dashboard-main.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard-main.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\dashboard-project.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard-project.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\dashboard-sale.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard-sale.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\form-masking-custom.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-masking-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\form-validation.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\invoice-dashboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\invoice-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\invoice-list.js",
+      "PackagePath": "staticwebassets\\js\\pages\\invoice-list.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\iraq.js",
+      "PackagePath": "staticwebassets\\js\\pages\\iraq.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\italy.js",
+      "PackagePath": "staticwebassets\\js\\pages\\italy.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\map-vector.js",
+      "PackagePath": "staticwebassets\\js\\pages\\map-vector.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\membership-dashboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\membership-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\page-croper.js",
+      "PackagePath": "staticwebassets\\js\\pages\\page-croper.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\russia.js",
+      "PackagePath": "staticwebassets\\js\\pages\\russia.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\spain.js",
+      "PackagePath": "staticwebassets\\js\\pages\\spain.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\todo.js",
+      "PackagePath": "staticwebassets\\js\\pages\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\us-aea-en.js",
+      "PackagePath": "staticwebassets\\js\\pages\\us-aea-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\us-lcc-en.js",
+      "PackagePath": "staticwebassets\\js\\pages\\us-lcc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\us-merc-en.js",
+      "PackagePath": "staticwebassets\\js\\pages\\us-merc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\us-mill-en.js",
+      "PackagePath": "staticwebassets\\js\\pages\\us-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\w-chart.js",
+      "PackagePath": "staticwebassets\\js\\pages\\w-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\w-data.js",
+      "PackagePath": "staticwebassets\\js\\pages\\w-data.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pages\\widget-data.js",
+      "PackagePath": "staticwebassets\\js\\pages\\widget-data.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\pcoded.js",
+      "PackagePath": "staticwebassets\\js\\pcoded.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\plugins\\Jarallax.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\Jarallax.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\plugins\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\plugins\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\plugins\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\clipboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\plugins\\feather.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\plugins\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\plugins\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\plugins\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\plugins\\tinymce\\plugins\\print\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\tinymce\\plugins\\print\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\json\\2500.txt",
+      "PackagePath": "staticwebassets\\json\\2500.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\json\\datatable.column.json",
+      "PackagePath": "staticwebassets\\json\\datatable.column.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\json\\datatable.json",
+      "PackagePath": "staticwebassets\\json\\datatable.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\json\\file-upload.php",
+      "PackagePath": "staticwebassets\\json\\file-upload.php"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\json\\lazy.json",
+      "PackagePath": "staticwebassets\\json\\lazy.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\json\\root.json",
+      "PackagePath": "staticwebassets\\json\\root.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\json\\typehead\\countries.json",
+      "PackagePath": "staticwebassets\\json\\typehead\\countries.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\json\\typehead\\movies.json",
+      "PackagePath": "staticwebassets\\json\\typehead\\movies.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\json\\typehead\\nba.json",
+      "PackagePath": "staticwebassets\\json\\typehead\\nba.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\json\\typehead\\nhl.json",
+      "PackagePath": "staticwebassets\\json\\typehead\\nhl.json"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\HRmangmentSystem-master\\HRmangmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HRmangmentSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HRmangmentSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HRmangmentSystem.props",
+      "PackagePath": "build\\HRmangmentSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HRmangmentSystem.props",
+      "PackagePath": "buildMultiTargeting\\HRmangmentSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HRmangmentSystem.props",
+      "PackagePath": "buildTransitive\\HRmangmentSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
